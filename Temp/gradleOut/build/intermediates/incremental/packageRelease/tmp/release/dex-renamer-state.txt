@@ -1,0 +1,4 @@
+#Mon Feb 10 20:55:39 GMT+01:00 2020
+base.0=D\:\\ANTONI\\Unity\\AR Foundation\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
